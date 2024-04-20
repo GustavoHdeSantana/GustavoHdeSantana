@@ -7,7 +7,7 @@ Olá! Sou um entusiasta de tecnologia apaixonado por programação e todas as po
 
 ## Experiência
 
-### Programador Backend na Analytica Ensino
+### Programador Full Stack na Analytica Ensino
 
 Período: 03/2023 - Presente
 
