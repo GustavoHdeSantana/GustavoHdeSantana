@@ -1,67 +1,60 @@
-# Gustavo Henrique de Santana
+<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<p align="center">
+  <b>Full Stack Developer</b> apaixonado por tecnologia, arquitetura de software e desafios reais.<br>
+  Foco em soluções robustas, escaláveis e com código limpo.<br>
+  <br>
+  <a href="mailto:gu-henrique011@hotmail.com"><img src="https://img.shields.io/badge/E-mail-DarkGreen?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-henrique-dev26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/GustavoHdeSantana"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+</p>
 
+---
 
-## Sobre mim
+## 🚀 Sobre mim
 
-Olá! Sou um entusiasta de tecnologia apaixonado por programação e todas as possibilidades que ela oferece. Atualmente, estou me graduando em Sistemas de Informação na Universidade Nove de Julho (Uninove) e trabalho como programador backend na Analytica Ensino. Desde muito jovem, fui fascinado pela forma como a tecnologia molda o mundo ao nosso redor e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Minha paixão por programação me motiva a buscar soluções inovadoras e eficientes para os desafios que encontro.
+Sou desenvolvedor Full Stack com sólida experiência em **Node.js, React, Next.js, TypeScript e AWS**.  
+Atualmente, também estudo **Java e Spring Boot** para expandir meu conhecimento em backend e microsserviços.  
+Tenho histórico comprovado em entregar soluções **escaláveis, robustas e seguras**, tanto no backend (NestJS, Express, microsserviços, AWS Lambda) quanto no frontend (React, Next.js, Tailwind CSS).
 
-## Experiência
+Curioso por novas tecnologias, busco sempre **aprender, colaborar e evoluir em ambientes ágeis**. Gosto de criar código limpo, otimizar processos, resolver desafios complexos e compartilhar conhecimento com o time.
 
-### Programador Full Stack na Analytica Ensino
+---
 
-Período: 03/2023 - 04/2024
+## 🛠️ Principais Tecnologias
 
-Na Analytica Ensino, atuo como programador backend, desempenhando um papel fundamental no desenvolvimento e aprimoramento de aplicações web. Minhas responsabilidades incluem:
-
-- Colaborar com a equipe de desenvolvimento no planejamento, implementação e testes de novas funcionalidades em aplicações existentes.
-- Desenvolver e manter APIs eficientes, escaláveis e seguras utilizando Node.js, TypeScript e JavaScript.
-- Trabalhar em estreita colaboração com a equipe de frontend para garantir uma integração perfeita entre o front e o back-end.
-- Participar de sessões de brainstorming e reuniões para discutir soluções técnicas, identificar problemas e propor melhorias.
-- Realizar manutenção contínua em APIs, identificando e corrigindo bugs, otimizando o desempenho e garantindo a estabilidade do sistema.
-- Investigar e resolver problemas relatados pelos usuários, fornecendo suporte técnico eficiente e soluções eficazes.
-- Ficar atualizado com as melhores práticas e tendências em desenvolvimento backend, explorando continuamente novas tecnologias e frameworks.
-
-Durante minha experiência na Analytica Ensino, pude aprimorar minhas habilidades de programação, trabalhar em um ambiente ágil e colaborativo e lidar com desafios técnicos interessantes. Estou sempre empolgado em contribuir para o sucesso da equipe e agregar valor às soluções que desenvolvemos.
-
-## Educação
-
-### Universidade Nove de Julho (Uninove)
-
-- Curso: Sistemas de Informação
-- Período: 02/2020 - 12/2023
-
-Formado em Sistemas de Informação na Universidade Nove de Julho (Uninove). Durante meu curso, tenho adquirido conhecimentos valiosos nas áreas de tecnologia da informação, desenvolvimento de software e gerenciamento de projetos. Alguns dos principais cursos e disciplinas que tenho estudado incluem:
-
-- Fundamentos da Computação
-- Programação Orientada a Objetos
-- Banco de Dados
-- Engenharia de Software
-- Sistemas Operacionais
-- Redes de Computadores
-
-## Habilidades
-
-- Linguagens de Programação: JavaScript, TypeScript
-- Frameworks: Node.js, Express.js
-- Banco de Dados: SQL, MongoDB
-- Desenvolvimento Web: HTML, CSS, React
-- Versionamento de Código: Git
-- Metodologias Ágeis: Scrum
-- Resolução de Problemas
-- Aprendizado Rápido e Adaptabilidade
-- Comunicação Eficaz e Trabalho em Equipe
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-  
-
-## Contatos
-<div> 
-  <a href = "mailto:gu-henrique011@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-henrique-dev26/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="Git"/>
 </div>
 
+<div align="center">
+  <strong>Outras stacks:</strong> NestJS, Express, AWS (EC2, Lambda, Cognito, OpenSearch), Tailwind CSS, Sequelize, Jest
+</div>
+
+---
+
+
+## ✨ Projetos em destaque
+
+| Projeto                | Descrição                                                      | Stack Principal                   | Link                                                                                       |
+|------------------------|----------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------|
+| **gestao_cursos_java** | Sistema de gestão de cursos                                    | Java, Spring                         | [Repositório](https://github.com/GustavoHdeSantana/gestao_cursos_java)                     |
+| **ToDoListJava**       | Lista de tarefas (to-do list) em Java                          | Java                              | [Repositório](https://github.com/GustavoHdeSantana/ToDoListJava)                           |
+| **githubAPI**          | Consumo da API do GitHub com React                             | React, JavaScript                 | [Repositório](https://github.com/GustavoHdeSantana/githubAPI)                              |
+| **CRUD-com-NodeJS**    | API RESTful para cadastro, leitura, atualização e remoção      | Node.js, TypeScript, Express      | [Repositório](https://github.com/GustavoHdeSantana/CRUD-com-NodeJS)                        |
+
+
+---
+
+
+## 📫 Vamos conversar?
+
+Me chame no [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-dev26/) ou envie um e-mail para <a href="mailto:gu-henrique011@hotmail.com">gu-henrique011@hotmail.com</a>.  
+Sempre aberto a networking, parcerias ou trocar ideias sobre tecnologia!
